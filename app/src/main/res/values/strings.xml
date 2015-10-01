@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VideoStream</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_video_fragment">VideoFragmentActivity</string>
+
+    <!-- Button -->
+    <string name="btn_video_player">Activity MediaPlayer</string>
+    <string name="btn_video_controller">Activity Controller</string>
+
+    <string name="btn_video_frag_controller">Fragment Controller</string>
+    <string name="btn_video_frag_player">Fragment MediaPlayer</string>
+
+    <string name="title_activity_media">MediaActivity</string>
+
+</resources>
